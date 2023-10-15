@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Black Shoes",
+    "price": "$ 5200",
+    "content": "Mens style",
+    "img": "https://img.freepik.com/free-photo/one-black-sneaker-shoe-isolated-white_93675-131266.jpg?size=626&ext=jpg&ga=GA1.2.945868740.1697346172&semt=sph"
+  },
+  {
+    "id": "2",
+    "name": "Iphone 14 pro max",
+    "price": "$ 120000",
+    "content": "Mens essential",
+    "img": "https://img.freepik.com/premium-photo/iphone-14-pro_66796-14.jpg?size=626&ext=jpg&ga=GA1.2.945868740.1697346172&semt=sph"
+  },
+  {
+    "id": "3",
+    "name": "Black T-Shirt",
+    "price": "$ 1200",
+    "content": "Mens look",
+    "img": "https://img.freepik.com/free-photo/isolated-opened-black-t-shirt_125540-1451.jpg?size=626&ext=jpg&ga=GA1.2.945868740.1697346172&semt=sph"
+  }
+]
