@@ -20,7 +20,7 @@ const Header = () => {
             <Link>About us</Link>
           </li>
         </ul>
-        <button className="bg-amber-500 py-1 px-2 rounded-lg text-black">
+        <button className="bg-amber-500 py-1 px-6 rounded-lg text-black">
           login
         </button>
       </nav>
